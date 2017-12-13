@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Sub&Steer.Plugins", "AI Sub&Steer.Plugins.csproj", "{75F6924A-EB6E-D9CE-D747-906F37ACF191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Sub&Steer", "AI Sub&Steer.csproj", "{D41BD1F2-F5B5-917E-204A-CBFD8B98024E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Sub&Steer.Editor.Plugins", "AI Sub&Steer.Editor.Plugins.csproj", "{B91DEEB9-A8E9-2BF3-FE40-8E39D5245D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F6924A-EB6E-D9CE-D747-906F37ACF191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F6924A-EB6E-D9CE-D747-906F37ACF191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F6924A-EB6E-D9CE-D747-906F37ACF191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F6924A-EB6E-D9CE-D747-906F37ACF191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41BD1F2-F5B5-917E-204A-CBFD8B98024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41BD1F2-F5B5-917E-204A-CBFD8B98024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41BD1F2-F5B5-917E-204A-CBFD8B98024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41BD1F2-F5B5-917E-204A-CBFD8B98024E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91DEEB9-A8E9-2BF3-FE40-8E39D5245D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91DEEB9-A8E9-2BF3-FE40-8E39D5245D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91DEEB9-A8E9-2BF3-FE40-8E39D5245D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91DEEB9-A8E9-2BF3-FE40-8E39D5245D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
